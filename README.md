@@ -35,7 +35,7 @@ Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertria
 
 ---
 
-<img src="assets/oddsfox.png" alt="OddsFox Logo" width="200">
+<img src="oddsfoxwhite.png" alt="OddsFox White Logo" width="200">
 
 In 1945, Friedrich Hayek identified the Knowledge Problem: the reality that essential information is fragmented and hidden among millions of individuals. He proposed that markets are the ultimate tool for aggregating this decentralized knowledge into a single, usable signal: Price.
 
