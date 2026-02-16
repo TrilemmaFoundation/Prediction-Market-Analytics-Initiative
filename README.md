@@ -35,6 +35,18 @@ Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertria
 
 ---
 
+<img src="assets/oddsfox.png" alt="OddsFox Logo" width="200">
+
+In 1945, Friedrich Hayek identified the Knowledge Problem: the reality that essential information is fragmented and hidden among millions of individuals. He proposed that markets are the ultimate tool for aggregating this decentralized knowledge into a single, usable signal: Price.
+
+Decades of evidence, from the 1988 launch of the Iowa Electronic Markets to the definitive call by Polymarket on the 2024 US Election, consistently prove that prediction markets outperform experts and polls. Much like early deep learning models could identify handwritten digits before we understood their internal mechanisms, prediction markets currently function as highly effective but poorly understood black boxes.
+
+## Vision 
+We are treating prediction markets not just as a trading venue, but as a high-fidelity data provider for collective information. Just as peering into the deep learning black box enabled the leap from simple image recognition to full self-driving, uncovering the mechanics of market accuracy will allow us to transition from textbook theory to high-utility, real-world applications.
+
+
+--- 
+
 ## 🚀 Find How You Will Contribute
 
 | Path                                  | Description                                                                             | Link                                                                                  |
